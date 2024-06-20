@@ -1,5 +1,5 @@
 # odin-recipes
 
-Building a basic recipe website.
+Building a basic recipe website from the Odin Project Foundation Course.
 
-I want to demonstrate my knowledge of HTML.
+I want to demonstrate my knowledge of HTML and Git.
