@@ -5,9 +5,9 @@ body {
 
 .odin-recipes {
   padding: 20px;
-  margin: 40px auto;
+  margin: 20px auto;
   max-width: 800px;
-  background-color: #f9f9f9; /* or a transparent background */
+  background-color: #f9f9f9;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
